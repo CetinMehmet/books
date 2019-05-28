@@ -1,4 +1,4 @@
-# dtt-app
+# book-app
 
 ## Project setup
 ```
